@@ -1,2 +1,2 @@
 # Warsztat-SQL
-Warsztat
+Warsztat - Warsztat SQL
